@@ -17,8 +17,6 @@ Bem-vindo ao nosso site de feedback experimental! Estamos ansiosos para ouvir o 
 
 Se você tiver alguma sugestão sobre como melhorar nosso site de feedback ou se quiser adicionar mais opções de feedback, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
-## Experimente Agora!
-
 # Link para acessar o site
 
 [Feedback](https://hellyanlopes.github.io/feedbackPage/)

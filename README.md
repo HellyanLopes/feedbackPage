@@ -21,5 +21,5 @@ Se você tiver alguma sugestão sobre como melhorar nosso site de feedback ou se
 
 # Link para acessar o site
 
-[Feedback]([https://seu-site-de-feedback.com](https://hellyanlopes.github.io/feedbackPage/)).
+[Feedback](https://hellyanlopes.github.io/feedbackPage/)
 
